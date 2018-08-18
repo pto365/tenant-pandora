@@ -1,2 +1,3 @@
-# tenant-pandora
-Use for providing use cases and descriptions
+# Pandora @Jumpto365
+
+Testing out describing services and UseCases using Jumpto365
